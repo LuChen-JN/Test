@@ -1,4 +1,4 @@
-## Introduction
+<img width="604" height="24" alt="image" src="https://github.com/user-attachments/assets/7e14a3be-e44e-4d27-a615-d20974115529" />## Introduction
 A deep learning model for predicting interactions between nucleic acids and small molecules
 
 ## System Requirements
@@ -18,3 +18,10 @@ matplotlib = 3.3.4
 ## Data Sources
 Our data contain aptamer and riboswitch datasets. For aptamers, the data were collected from numerous literature collections and websites, including the following websites involved in the article:
 1. https://www.aptamer.org/
+2. https://www.aptagen.com/
+3. https://sites.utexas.edu/aptamerdatabase/
+Note: The aptamer database has been updated once since the work involved in the model was completed.
+
+Riboswitch data from：
+https://riboswitch.ribocentre.org/
+
