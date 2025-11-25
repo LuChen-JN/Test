@@ -1,4 +1,4 @@
-<img width="604" height="24" alt="image" src="https://github.com/user-attachments/assets/7e14a3be-e44e-4d27-a615-d20974115529" />## Introduction
+## Introduction
 A deep learning model for predicting interactions between nucleic acids and small molecules
 
 ## System Requirements
